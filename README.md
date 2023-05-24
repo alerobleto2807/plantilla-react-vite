@@ -1,6 +1,6 @@
 # plantilla-react-vite
 --> Esta es una plantilla de vite + react que posee las ultimas herramientas de desarrollo y paquetes instalados:
--clona el proyecto desde aqui en tu carpeta con git clone 
+-clona el proyecto desde aqui en tu carpeta con git clone https://github.com/alerobleto2807/plantilla-react-vite.git
 -npm run dev  //para correr la plantilla en el servidor
 
 ** lo siguiente es instalar las dependicas de boostrap y react icon + sass**
